@@ -1,0 +1,48 @@
+{
+  "name": "bower-test",
+  "version": "0.0.0",
+  "description": "Distributable package for bower-test",
+  "keywords": [
+    "test"
+  ],
+  "authors": [
+    "karl"
+  ],
+  "main": [
+    "src/js/dummy.js"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "bin",
+    ".sass-cache"
+  ],
+  "dependencies": {
+    "angular": "~1.3.14",
+    "angular-cookies": "~1.3.14",
+    "angular-local-storage": "~0.1.5",
+    "angular-resource": "~1.3.14",
+    "angular-route": "~1.3.14",
+    "angular-cache": "3.2.4",
+    "angular-data": "1.4.2",
+    "angular-dynamic-locale": "~0.1.27",
+    "angular-moment": "~0.9.0",
+    "angular-translate": "~2.6.0",
+    "angular-ui-router": "~0.2.13",
+    "foundation": "~5.5.1",
+    "lodash": "~3.3.1",
+    "moment": "~2.9.0",
+    "eq.js": "~1.6.0",
+    "angular-translate-storage-cookie": "~2.6.0",
+    "angular-translate-storage-local": "~2.6.0",
+    "angular-animate": "~1.3.14",
+    "angular-mocks": "~1.3.14"
+  },
+  "devDependencies": {
+    "jasmine": "~2.1.3"    
+  }
+}

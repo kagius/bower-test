@@ -1,0 +1,8 @@
+{
+  "registry": {
+    "search": [
+      "http://localhost:81/bower/wrkmt-karl",
+      "https://bower.herokuapp.com"
+    ]
+  }
+}
